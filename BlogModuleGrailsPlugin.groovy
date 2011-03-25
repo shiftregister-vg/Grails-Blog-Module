@@ -11,11 +11,11 @@ class BlogModuleGrailsPlugin {
     ]
 
     // TODO Fill in these fields
-    def author = "Your name"
-    def authorEmail = ""
-    def title = "Plugin summary/headline"
+    def author = "Steve Good"
+    def authorEmail = "steve@stevegood.org"
+    def title = "Blog"
     def description = '''\\
-Brief description of the plugin.
+A very simple blog engine.
 '''
 
     // URL to the plugin's documentation
